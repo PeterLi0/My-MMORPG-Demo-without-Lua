@@ -1,0 +1,25 @@
+
+import "chatobj.proto";
+
+// optional	-- 可选的
+// required	-- 必须的
+// repeated -- List
+
+
+// 请求好友列表
+message ReqFriendList
+{
+	required int32 characterid = 1;
+}
+
+// 好友列表应答
+message RspFriendList
+{
+	repeated aaa.FriendInfo infos = 1;
+}
+
+
+message ReqAddFriend
+{
+	required int32 characterid = 1;
+}

@@ -1,0 +1,54 @@
+
+import "common.proto";
+
+package task;
+// 查看任务
+message ReqTaskInfo
+{
+	required int32 task_id			= 1;
+}
+
+message RespTaskInfo
+{
+	repeated common.TaskDTO	task		= 1;
+}
+// 添加任务
+message ReqAddTask
+{
+	required int32 task_id			= 1;
+}
+
+message RespAddTask
+{
+	required bool isSuccess			= 1;
+	required common.TaskDTO task		= 2;
+}
+// 放弃任务
+message ReqDeleteTask
+{
+	required int32 task_id			= 1;
+}
+
+message RespDeleteTask
+{
+	required bool isSuccess			= 1;
+	required int32 task_id			= 2;
+}
+// 完成任务
+message ReqCompleteTask
+{
+	required common.TaskDTO task		= 1;
+	required int32 task_gold_award	= 2;
+}
+
+message RespCompleteTask
+{
+	required bool isSuccess			= 1;
+	required int32 task_id			= 2;
+	required int32 task_gold_award  = 3;
+}
+// 更新任务状态
+message ReqUpdateTask
+{
+	required int32 count			= 1;
+}

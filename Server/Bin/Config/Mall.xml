@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by et8 (et8) -->
+<Nodes>
+	<Node ID="1001" ItemID="1101" Gold="80" Diamond="8"/>
+	<Node ID="1002" ItemID="1102" Gold="80" Diamond="8"/>
+	<Node ID="1003" ItemID="1103" Gold="80" Diamond="8"/>
+	<Node ID="1004" ItemID="1201" Gold="80" Diamond="8"/>
+	<Node ID="1005" ItemID="1202" Gold="80" Diamond="8"/>
+	<Node ID="1006" ItemID="1203" Gold="80" Diamond="8"/>
+	<Node ID="1007" ItemID="1301" Gold="80" Diamond="8"/>
+	<Node ID="1008" ItemID="1302" Gold="80" Diamond="8"/>
+	<Node ID="1009" ItemID="1303" Gold="80" Diamond="8"/>
+	<Node ID="1010" ItemID="1304" Gold="80" Diamond="8"/>
+	<Node ID="1011" ItemID="1401" Gold="80" Diamond="8"/>
+	<Node ID="1012" ItemID="1402" Gold="80" Diamond="8"/>
+	<Node ID="1013" ItemID="1403" Gold="80" Diamond="8"/>
+	<Node ID="1014" ItemID="1501" Gold="80" Diamond="2"/>
+	<Node ID="1015" ItemID="1502" Gold="50" Diamond="3"/>
+	<Node ID="1016" ItemID="1503" Gold="99" Diamond="3"/>
+	<Node ID="1017" ItemID="1601" Gold="56" Diamond="56"/>
+	<Node ID="1018" ItemID="1602" Gold="55" Diamond="32"/>
+	<Node ID="1019" ItemID="1603" Gold="26" Diamond="30"/>
+	
+</Nodes>

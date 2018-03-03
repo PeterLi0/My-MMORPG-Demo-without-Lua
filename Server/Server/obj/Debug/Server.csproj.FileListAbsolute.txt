@@ -1,0 +1,82 @@
+E:\Server\server_bloodsword\Code\FuncModule\Server\Server\Server\bin\Debug\Server.exe.config
+E:\Server\server_bloodsword\Code\FuncModule\Server\Server\Bin\Server.exe.config
+E:\Server\server_bloodsword\Code\FuncModule\Server\Server\Bin\Server.exe
+E:\Server\server_bloodsword\Code\FuncModule\Server\Server\Bin\Server.pdb
+E:\Server\server_bloodsword\Code\FuncModule\Server\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Server\server_bloodsword\Code\FuncModule\Server\Server\Server\obj\Debug\Server.exe
+E:\Server\server_bloodsword\Code\FuncModule\Server\Server\Server\obj\Debug\Server.pdb
+E:\Server\server_bloodsword\Code\FuncModule\Server\Bin\Server.exe.config
+E:\Server\server_bloodsword\Code\FuncModule\Server\Server\obj\Debug\Server.exe
+E:\Server\server_bloodsword\Code\FuncModule\Server\Server\obj\Debug\Server.pdb
+E:\Server\server_bloodsword\Code\FuncModule\Server\Bin\Server.exe
+E:\Server\server_bloodsword\Code\FuncModule\Server\Bin\Server.pdb
+E:\Server\server_bloodsword\Code\FuncModule\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Code\Project\project_bloodsword3\Server\Bin\Server.exe.config
+D:\Code\Project\project_bloodsword3\Server\Server\obj\Debug\Server.exe
+D:\Code\Project\project_bloodsword3\Server\Server\obj\Debug\Server.pdb
+D:\Code\Project\project_bloodsword3\Server\Bin\Server.exe
+D:\Code\Project\project_bloodsword3\Server\Bin\Server.pdb
+D:\Code\Project\project_bloodsword3\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Project\project_bloodsword3\Server\Bin\Server.exe.config
+E:\Project\project_bloodsword3\Server\Server\obj\Debug\Server.exe
+E:\Project\project_bloodsword3\Server\Server\obj\Debug\Server.pdb
+E:\Project\project_bloodsword3\Server\Bin\Server.exe
+E:\Project\project_bloodsword3\Server\Bin\Server.pdb
+E:\Project\project_bloodsword3\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Lesson III\WOW_20171117\Server\Bin\Server.exe.config
+E:\Lesson III\WOW_20171117\Server\Server\obj\Debug\Server.exe
+E:\Lesson III\WOW_20171117\Server\Server\obj\Debug\Server.pdb
+E:\Lesson III\WOW_20171122\Server\Bin\Server.exe.config
+E:\Lesson III\WOW_20171122\Server\Server\obj\Debug\Server.exe
+E:\Lesson III\WOW_20171122\Server\Server\obj\Debug\Server.pdb
+E:\Lesson III\WOW_20171122\Server\Bin\Server.exe
+E:\Lesson III\WOW_20171122\Server\Bin\Server.pdb
+E:\Lesson III\WOW_20171122\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\宋倩VR学习\Unity\wow-1122\Server\Bin\Server.exe.config
+E:\宋倩VR学习\Unity\wow-1122\Server\Server\obj\Debug\Server.exe
+E:\宋倩VR学习\Unity\wow-1122\Server\Server\obj\Debug\Server.pdb
+E:\宋倩VR学习\Unity\wow-1122\Server\Bin\Server.exe
+E:\宋倩VR学习\Unity\wow-1122\Server\Bin\Server.pdb
+E:\宋倩VR学习\Unity\wow-1122\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\WOW\Server\Bin\Server.exe.config
+E:\WOW\Server\Server\obj\Debug\Server.exe
+E:\WOW\Server\Server\obj\Debug\Server.pdb
+E:\WOW\Server\Bin\Server.exe
+E:\WOW\Server\Bin\Server.pdb
+E:\WOW\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Lesson III\OurWOW_20171127\Server\Bin\Server.exe.config
+E:\Lesson III\OurWOW_20171127\Server\Server\obj\Debug\Server.exe
+E:\Lesson III\OurWOW_20171127\Server\Server\obj\Debug\Server.pdb
+E:\Lesson III\OurWOW_20171127\Server\Bin\Server.exe
+E:\Lesson III\OurWOW_20171127\Server\Bin\Server.pdb
+E:\Lesson III\OurWOW_20171127\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Work\Server\Bin\Server.exe.config
+E:\Work\Server\Server\obj\Debug\Server.exe
+E:\Work\Server\Server\obj\Debug\Server.pdb
+E:\Work\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Work\Server\Bin\Server.exe
+E:\Work\Server\Bin\Server.pdb
+E:\Lesson III\魔兽项目备份\BackUp-20171128\备份\Server\Bin\Server.exe.config
+E:\Lesson III\魔兽项目备份\BackUp-20171128\备份\Server\Server\obj\Debug\Server.exe
+E:\Lesson III\魔兽项目备份\BackUp-20171128\备份\Server\Server\obj\Debug\Server.pdb
+E:\wow1129\Server\Bin\Server.exe.config
+E:\wow1129\Server\Server\obj\Debug\Server.exe
+E:\wow1129\Server\Server\obj\Debug\Server.pdb
+E:\wow1129\Server\Bin\Server.exe
+E:\wow1129\Server\Bin\Server.pdb
+E:\wow1129\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\wow1129\Server\Bin\Server.exe.config
+C:\Users\Administrator\Desktop\wow1129\Server\Server\obj\Debug\Server.exe
+C:\Users\Administrator\Desktop\wow1129\Server\Server\obj\Debug\Server.pdb
+C:\Users\Administrator\Desktop\wow1129\Server\Bin\Server.exe
+C:\Users\Administrator\Desktop\wow1129\Server\Bin\Server.pdb
+C:\Users\Administrator\Desktop\wow1129\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\宋倩\wow1129 - 副本\Server\Bin\Server.exe.config
+E:\宋倩\wow1129 - 副本\Server\Server\obj\Debug\Server.exe
+E:\宋倩\wow1129 - 副本\Server\Server\obj\Debug\Server.pdb
+E:\宋倩\wow1129 - 副本\Server\Bin\Server.exe
+E:\宋倩\wow1129 - 副本\Server\Bin\Server.pdb
+E:\宋倩\wow1129 - 副本\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+E:\Lesson III\WOW\Server\Bin\Server.exe.config
+E:\Lesson III\WOW\Server\Server\obj\Debug\Server.exe
+E:\Lesson III\WOW\Server\Server\obj\Debug\Server.pdb

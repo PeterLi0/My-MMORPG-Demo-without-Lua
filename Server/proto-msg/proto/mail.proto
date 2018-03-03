@@ -1,0 +1,50 @@
+
+import "common.proto";
+
+message ReqMailInfos
+{
+
+}
+
+message RespMailInfos
+{
+	repeated common.MailDTO mails			= 1;
+}
+
+message ReqDeleteMail
+{
+	required int32 characterid		= 1;
+	required int32 mailid			= 2;
+}
+
+message RespDeleteMail
+{
+	required int32 mailid			= 1;
+	required int32 msgtips			= 2;
+}
+
+message ReqSendMail
+{
+	required common.MailDTO dto			= 1;
+}
+
+message RespSendMail
+{
+    required int32 msgtips			= 1;
+	required int32 goldReceived		= 2;
+}
+
+// 领取邮件物品请求
+message ReqRecvItem
+{
+	required int32 mail_id			= 1;
+}
+
+//领取邮件物品应答
+message RespRecvItem
+{
+	 required common.InventoryDTO inv		= 1;
+}
+
+
+

@@ -1,0 +1,63 @@
+
+package common;
+
+message Vector
+{
+	required float x		= 1;
+	required float y		= 2;
+	required float z 		= 3;
+}
+
+message CharacterDTO
+{
+	required int32 id			= 1;        // 角色id
+	required int32 accountid	= 2;   		// 玩家所属账号
+	required string name		= 3;     	// 玩家名
+	required int32 race			= 4;        // 种族
+	required int32 job			= 5;     	// 职业
+	required int32 gender		= 6;      	// 性别
+	required int32 level		= 7;       	// 等级
+	required int32 exp			= 8;        // 经验
+	required int32 diamond		= 9;     	// 钻石
+	required int32 gold			= 10;       // 金币
+	required float pos_x		= 11;     	// 初始坐标
+	required float pos_y		= 12;
+	required float pos_z		= 13;
+	required int32 cfgid		= 14;       // 角色配置id
+}
+
+
+message MailDTO
+{
+	required int32 id				= 1;
+	required int32 sender_id		= 2;
+	required int32 receiver_id		= 3;
+	required string subject			= 4;
+	optional string body			= 5;
+	required string deliver_time	= 6;
+	optional int32 money			= 7;
+	required int32 has_items		= 8;
+	optional Mail_ItemDTO items		= 9;
+}
+
+message Mail_ItemDTO
+{
+	required int32 mail_id			= 1;
+	required int32 item_id			= 2;
+	required int32 item_num			= 3;
+}
+
+message InventoryDTO
+{
+	required int32 slot			= 1;
+	required int32 itemid		= 2;
+	required int32 num			= 3;
+}
+
+message TaskDTO
+{
+	required int32 id				  = 1;
+	required int32 character_id		  = 2;
+	required int32 task_id            = 3;
+	required int32 kill_monster_count = 4;	
+}

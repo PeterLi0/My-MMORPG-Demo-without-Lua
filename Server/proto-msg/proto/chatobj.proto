@@ -1,0 +1,10 @@
+
+package aaa;
+
+// 好友信息
+message FriendInfo
+{
+	required int32 characterid 	= 1;
+	required string name = 2;
+	required int32 level = 3;
+}

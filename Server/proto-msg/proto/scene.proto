@@ -1,0 +1,40 @@
+
+import "common.proto";
+
+
+// 请求获取场景中所有角色信息
+message ReqSceneCharacters
+{
+	required int32 characterid			= 1;
+}
+
+// 获取场景中所有角色信息应答
+message RespSceneCharacters
+{
+	repeated common.CharacterDTO characters	= 1;
+}
+
+//  通知角色上线
+message NotifyCharacterOnline
+{
+	required common.CharacterDTO character		= 1;
+}
+
+// 通知角色离线
+message NotifyCharacterOffline
+{
+	required int32 characterid			= 1;
+}
+
+message ReqCharacterMove
+{
+	required common.Vector pos					= 1;
+}
+
+message NotifyCharacterMove
+{
+	required int32 characterid			= 1;
+	required common.Vector pos					= 2;
+}
+
+
