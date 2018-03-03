@@ -1,0 +1,4 @@
+sceneSetups:
+- path: E:/my Unity projects/MyProjects/Assets/Lesson01.unity
+  isLoaded: 1
+  isActive: 1
