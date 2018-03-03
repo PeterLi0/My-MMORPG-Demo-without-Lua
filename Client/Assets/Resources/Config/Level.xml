@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- edited with XMLSPY v5 rel. 2 U (http://www.xmlspy.com) by nAcer (Stu) -->
+<Nodes>
+	<Node ID="1001" No="1" Name="1v1" Scene="Map_1001"/>
+	<Node ID="1002" No="2" Name="3v3" Scene="Map_1002"/>
+	<Node ID="1003" No="3" Name="5v5" Scene="Map_1003"/>
+	<Node ID="1004" No="4" Name="世界" Scene="Map_1004"/>
+	<Node ID="1005" No="5" Name="组队副本1" Scene="Map_1005"/>
+	<Node ID="1006" No="6" Name="组队副本2" Scene="Map_1006"/>
+	<Node ID="1007" No="7" Name="组队副本3" Scene="Map_1007"/>
+	<Node ID="1008" No="8" Name="组队副本4" Scene="Map_1008"/>
+	<Node ID="1009" No="9" Name="组队副本5" Scene="Map_1009"/>
+	
+</Nodes>
